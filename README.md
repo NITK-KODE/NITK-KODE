@@ -18,3 +18,8 @@ This can help because
 
 - Add a ```hacktoberfest``` label to the repositories
 - Creating a repository for beginners to practise git concepts
+
+## Contributers
+<a href = "https://github.com/NITK-KODE/NITK-KODE/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=NITK-KODE/NITK-KODE"/>
+</a>
