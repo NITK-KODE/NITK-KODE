@@ -10,4 +10,4 @@ NITK KODE is a group of passionate programmers from NITK Batch 2024.
 This can help because
 - It will make them aware of the issue
 - They will have more clarity about it
-Some easy issues can also be created to initiate the culture of contribution among students.
+-Some easy issues can also be created to initiate the culture of contribution among students.
